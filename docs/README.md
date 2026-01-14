@@ -1,4 +1,5 @@
-![Banner](.github/banner.jpg)
+![Banner](.github/banner.jpg)![banner01](https://github.com/user-attachments/assets/2abb5f9f-1f77-4c3b-bf04-f4a1f7f703e7)
+
 
 # BitVault
 **A Modular EVM-Compatible Layer 2 Framework for Native RWA Public Chains**
